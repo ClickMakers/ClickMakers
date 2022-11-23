@@ -30,8 +30,11 @@
 
 
 
+
+
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top"  width="33%">
 
 
 
@@ -100,7 +103,9 @@
 
 </td></tr></table>  
 
+
 <br/>  
+
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -113,3 +118,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ClickMakers&show_icons=true&locale=en" alt="clickmakers" /></p> -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ClickMakers&" alt="clickmakers" /></p>
+
+
+<p><img style="padding-top: 100px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClickMakers&show_icons=true&locale=en&layout=compact" alt="clickmakers" /></p>
