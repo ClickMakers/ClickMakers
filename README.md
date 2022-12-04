@@ -15,7 +15,7 @@
 
 - 👋 My Previous Project Is **Priva Chat Application**
 
-- 👨‍💻 All of my projects are available at [ClickMaker.in](ClickMaker.in)
+- 👨‍💻 All of my projects are available at [ClickMaker.in](https://ClickMaker.in)
 
 - 💬 Ask me about **React Native, NextJs, MERN**
 
