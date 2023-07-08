@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TriHome](https://play.google.com/store/apps/details?id=in.clickmaker.trihome)
+- 🔭 I’m currently working on [CRM With Distribution System](https://ClickMaker.in)
 
 - 🌱 I’m currently learning **React Native,NextJs And ExpressJs**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React Native, NextJs, MERN**
 
-- 📫 How to reach me **info@ClickMaker.in**
+- 📫 How to reach me **support@ClickMaker.in**
 
 - ⚡ Fun fact **🎮 Our Ideas can Bring true Revolution 🔥**
 
