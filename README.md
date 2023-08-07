@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://raw.githubusercontent.com/ClickMakers/ClickMakers/master/Banner.jpg](https://clickmaker.in/CM.png))](https://clickmaker.in)
+[![MasterHead]([https://clickmaker.in/CM.png](https://clickmaker.in)
 <h1 align="center">Hi👋,Welcome to ClickMaker</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
