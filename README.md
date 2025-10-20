@@ -1,124 +1,294 @@
+<div align="center">
 
-[![MasterHead](https://clickmaker.in/CM.png)](https://clickmaker.in)
-<h1 align="center">Hi👋,Welcome to ClickMaker</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- [![ClickMaker Header](https://clickmaker.in/LOGO.png)](https://clickmaker.in) -->
 
+# 👋 Welcome to ClickMaker's Digital Universe
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clickmakers&label=Profile%20views&color=0e75b6&style=flat" alt="clickmakers" /> </p>
+### 🚀 Full-Stack Developer | 💡 Creative Innovator | ⚙️ Scalable Solutions Architect
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Building high-performance web, mobile, and AI-powered systems with precision and passion.
 
-- 🔭 I’m currently working on [Client Projects](https://ClickMaker.in)
-
-- 🌱 I’m currently learning **React Native,NextJs And ExpressJs**
-
-- 👋 My Previous Project Is **Priva Chat Application**
-
-- 👨‍💻 All of my projects are available at [ClickMaker.in](https://ClickMaker.in)
-
-- 💬 Ask me about **React Native, NextJs, MERN**
-
-- 📫 How to reach me **support@ClickMaker.in**
-
-- ⚡ Fun fact **🎮 Our Ideas can Bring true Revolution 🔥**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/developerkuldeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerkuldeep" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Digital+Reality;MERN+Stack+%7C+Next.js+Developer;Flutter+Mobile+Development;Unity+%7C+AI+Integration+Expert;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clickmakers&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/clickmakers?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge" alt="Focus" />
+</p>
 
-
-
-
-
-## My Skill Set  
-<table><tr><td valign="top"  width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🎯 About Me
 
+<img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+```javascript
+const clickMaker = {
+  name: "ClickMaker",
+  location: "India 🇮🇳",
+  role: "Full-Stack Developer",
+  company: "ClickMaker.in",
+
+  currentFocus: [
+    "Full-Stack Web Development (Next.js & MERN)",
+    "Flutter mobile development",
+    "Unity game development with C#",
+    "AI integration & microservices",
+  ],
+
+  philosophy: "Ideas can bring true revolution 🔥",
+
+  workingOn: {
+    primary: "Client Projects at ClickMaker.in",
+    sideProject: "Priva Chat Application",
+    learning: ["Unity with C#", "Flutter", "Microservices", "AI Integration"],
+  },
+
+  askMeAbout: [
+    "MERN Stack",
+    "Next.js",
+    "Flutter",
+    "Unity Development",
+    "AI Integration",
+    "Microservices",
+  ],
+
+  funFact:
+    "🎮 I believe great code is like great art - it should be beautiful, functional, and inspiring!",
+};
+```
+
+### 🌟 What I Do
+
+- 🔭 **Currently Working On:** Innovative client projects at [ClickMaker.in](https://ClickMaker.in)
+- 🌱 **Learning:** Unity Engine with C#, Microservices Architecture, and AI Integration
+- 👨‍💻 **Portfolio:** All my projects live at [ClickMaker.in](https://ClickMaker.in)
+- 💬 **Ask Me About:** MERN stack, Next.js, Flutter, Unity development, AI integration
+- 📫 **Reach Me:** info@ClickMaker.in
+- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality! ☕→💻
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔥 Spotlight Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### Nanakshahi Calendar App
+
+_Comprehensive Sikh calendar and spiritual guide_
+
+**Tech Stack:** Flutter, REST APIs
+
+- Full list of Sikh holidays and Gurpurabs for 2025
+- Nanakshahi months explained clearly in Punjabi
+- Home Widget – see date & events from your home screen
+- AI Greetings – inspired by Punjabi culture & farming
+
+[🌐 Visit Website](https://www.nanakshahi.app/) | [📱 Android](https://play.google.com/store/apps/details?id=com.clickmaker.nanakshahiapp&hl=en_IN) | [🍎 iOS](https://apps.apple.com/in/app/nanakshahi-calendar-2025/id6748533160?platform=iphone)
+
+</td>
+<td width="50%">
+
+#### 🐄 Pashu Mandi - Cattle Bazaar
+
+_Digital livestock marketplace platform_
+
+**Tech Stack:** Flutter, Node.js, Express.js, MongoDB, Redis, Kafka
+
+- 🐮 Livestock buying and selling
+- 📊 Market price tracking
+- Farmer community platform
+- 24/7 Support
+
+[🌐 Visit Website](https://pashumandi.in/) | [📱 Android](https://play.google.com/store/apps/details?id=com.clickmaker.pashumandi) | [🍎 iOS](https://apps.apple.com/in/app/pashu-mandi-cattle-bazaar/id6748754806?platform=iphone)
+
+</td>
+</tr>
+</table>
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🛠️ Tech Arsenal
 
+<div align="center">
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+### 💻 Frontend Mastery
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma,photoshop" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,graphql,nginx" />
+</p>
+
+### 🚀 DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,gitlab,linux,bash" />
+</p>
+
+### 🎨 Design & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,premiere,aftereffects,electron" />
+</p>
+
 </div>
 
-</td></tr></table>  
+### 📊 Skill Proficiency
 
+```text
+Frontend Development    ████████████████████   95%
+Backend Development     ███████████████████    90%
+Mobile Development      ██████████████████     85%
+DevOps & Cloud         ████████████████       80%
+UI/UX Design           ███████████████████    90%
+Database Management    ██████████████████     85%
+```
 
-<br/>  
+---
 
+## 📈 GitHub Analytics
 
+<div align="center">
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=clickmakers&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=clickmakers&theme=tokyonight&hide_border=true" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickmakers&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=clickmakers&theme=tokyo-night&hide_border=true&area=true" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clickmakers" alt="clickmakers" /></a> </p>
+</div>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ClickMakers&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact" alt="clickmakers" /></p>
+### 🏆 GitHub Achievements
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ClickMakers&show_icons=true&locale=en" alt="clickmakers" /></p> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=clickmakers&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ClickMakers&" alt="clickmakers" /></p>
+---
 
+## 🎯 Current Focus & Learning Path
 
-<p><img style="padding-top: 100px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClickMakers&show_icons=true&locale=en&layout=compact" alt="clickmakers" /></p>
+<div align="center">
+
+### 🚀 2025 Technology Focus
+
+In 2025, we're primarily working with the **MERN stack** combined with **Next.js** for robust web applications, and **Flutter** as our first choice for mobile app development.
+
+</div>
+
+### 📚 Currently Learning
+
+- 🎮 **Unity Engine with C#** - Preparing for upcoming gaming and interactive projects
+- �️ **Microservices Architecture** - Building scalable, distributed systems
+- 🤖 **AI Integration** - Implementing intelligent features and automation
+- 🚀 **Advanced Next.js Patterns** - Optimizing performance and user experience
+- 📱 **Flutter Development** - Cross-platform mobile excellence
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💼 Professional Network
+
+<p>
+  <a href="https://clickmaker.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ClickMaker.in-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:info@ClickMaker.in">
+    <img src="https://img.shields.io/badge/Email-info@ClickMaker.in-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/developerkuldeep" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@developerkuldeep-00d4ff?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+### 🤝 Open for Collaboration
+
+```yaml
+Looking for:
+  - 🚀 Exciting full-stack projects
+  - 📱 Flutter mobile app development
+  - � Unity game development projects
+  - 🤖 AI integration opportunities
+  - 💡 Innovative startup ideas
+
+Expertise in:
+  - Full-Stack Web Development (Next.js & MERN)
+  - Flutter Mobile Development
+  - Unity Game Development
+  - Microservices Architecture
+  - AI Integration & Implementation
+```
+
+</div>
+
+---
+
+## 💡 Fun Zone
+
+<div align="center">
+
+### 🎲 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Coding Playlist Mood
+
+```
+🎧 Currently Vibing To: Lo-fi Hip Hop Beats
+☕ Fuel Level: High Caffeine
+🔥 Motivation: Maximum Overdrive
+💻 Code Quality: Production Ready
+```
+
+### 🎮 When I'm Not Coding
+
+- 🎯 **Gaming:** Strategy games and puzzle solving
+- 📚 **Reading:** Tech blogs and sci-fi novels
+- 🏃‍♂️ **Fitness:** Running and yoga
+- 🎨 **Design:** UI/UX experimentation
+- 🌱 **Learning:** Always exploring new technologies
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Ready to Build Something Amazing Together?
+
+**Let's turn your ideas into digital reality!**
+
+<p>
+  <a href="https://clickmaker.in" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Start%20Project-ClickMaker.in-00d4ff?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:info@ClickMaker.in">
+    <img src="https://img.shields.io/badge/💬%20Let's%20Talk-info@ClickMaker.in-00d4ff?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<sub>💙 Made with passion by ClickMaker | ⭐ Star this repo if you like it!</sub>
+
+</div>
